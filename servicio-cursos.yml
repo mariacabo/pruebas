@@ -15,6 +15,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
   instance:
-    instance-id: instancia2
+    instance-id: instancia3
 server:
   port: 7000 
