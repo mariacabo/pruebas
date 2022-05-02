@@ -18,4 +18,4 @@ eureka:
   instance:
     instance-id: instancia-reservas
 server:
-  port: 9003
+  port: 5003
